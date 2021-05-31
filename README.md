@@ -2,6 +2,8 @@
 Summary
 ---
 
+byungjin.dev@gmail.com
+
 This Application is for recording who chat in Channel.
 
 Display current amount of Chatters and whole Watchers.
