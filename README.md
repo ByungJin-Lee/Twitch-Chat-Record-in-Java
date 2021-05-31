@@ -1,5 +1,4 @@
 # Twitch-Chat-Record-in-Java
-===
 Summary
 ---
 
@@ -52,6 +51,7 @@ Detail
                 + user
                 + chats
                 + len
+               ...
 
 Enviroment
 ---
